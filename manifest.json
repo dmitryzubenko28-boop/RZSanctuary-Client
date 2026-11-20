@@ -1,566 +1,566 @@
 {
-    "product":  "RZ Sanctuary",
-    "version":  "9.5.2.0",
-    "files":  [
-                  {
-                      "path":  "audiere.dll",
-                      "size":  512000,
-                      "sha256":  "90e59c4f60941a2838d46e20fb78ba0cf71e9cfd0782e291ca876645e3794a66"
-                  },
-                  {
-                      "path":  "cam/Admin_cam.txt",
-                      "size":  50,
-                      "sha256":  "06c7f2d630bcbaee6f372eba10eff9d3d5a88346793f374104047104025a4d7e"
-                  },
-                  {
-                      "path":  "cam/Assasin_cam.txt",
-                      "size":  51,
-                      "sha256":  "ecd7a3b8e3eec988fe42fcd7a33b737b76d835bd0d11e300266e95d02f2173a0"
-                  },
-                  {
-                      "path":  "cam/Chupik_cam.txt",
-                      "size":  51,
-                      "sha256":  "ac7197fa4728faae3976eb4d66986eec924e63faa6f1f8fdba878d6c2110dc79"
-                  },
-                  {
-                      "path":  "cam/Hektor_cam.txt",
-                      "size":  50,
-                      "sha256":  "d68a8a31ee9e8f7251c8142a1aa516fbcc2c18e1533ade539d23c73ce71f0c8f"
-                  },
-                  {
-                      "path":  "cam/MasterBreeder_cam.txt",
-                      "size":  50,
-                      "sha256":  "8e069402f851ebda6b356f260e12df03e9aefdfb5c1d833daf864b62f30421d1"
-                  },
-                  {
-                      "path":  "cam/ranger_cam.txt",
-                      "size":  50,
-                      "sha256":  "2c5cb44ab3cf6b1a4b035230be286e00d516457c4c8d49d4d9a0a8c2c6d8a82a"
-                  },
-                  {
-                      "path":  "cam/TestServer_cam.txt",
-                      "size":  51,
-                      "sha256":  "5e4188290adeb08416a4232280d211bbc1173f50b5827ac89e4891eb3ffc6184"
-                  },
-                  {
-                      "path":  "cam/Void_cam.txt",
-                      "size":  50,
-                      "sha256":  "798d6923ebaa93f284a1d5b373823635cf41f028bf19af64886d057fc207c22e"
-                  },
-                  {
-                      "path":  "cario.dll",
-                      "size":  1839104,
-                      "sha256":  "41dda1d20624a814d00e14d39f473bc8dd64b58dc672488e7d5bf03d65d7d0f4"
-                  },
-                  {
-                      "path":  "client_option.ini",
-                      "size":  1,
-                      "sha256":  "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
-                  },
-                  {
-                      "path":  "customcamera.ini",
-                      "size":  63,
-                      "sha256":  "eb3a69d650c26f2047e401438d0616966c4f54ed91c5f8131c34ec86e44a5075"
-                  },
-                  {
-                      "path":  "d3dx9_31.dll",
-                      "size":  2414360,
-                      "sha256":  "e2065619fe6eb0034833b1dc0369deb4a6edc3110e38a1132eeafcf430c578a5"
-                  },
-                  {
-                      "path":  "d3dx9_40.dll",
-                      "size":  4379984,
-                      "sha256":  "16fd909aeb68d0d1aca8529dc7f78880b97d6649d70ce8d03a2c858bc28e216b"
-                  },
-                  {
-                      "path":  "data.000",
-                      "size":  5258403,
-                      "sha256":  "77ad1325f41388027f7aea75965bd7563c7651251f2e80ebdec0a3c619a9a80f"
-                  },
-                  {
-                      "path":  "data.001",
-                      "size":  848371934,
-                      "sha256":  "1b9885f0e412772f48fe7fe9b1db4f4a5ef8bac7c0641dd258c34ccf6a01ab1e"
-                  },
-                  {
-                      "path":  "data.002",
-                      "size":  806755098,
-                      "sha256":  "32c3013db08e1d9b0a1a03aac9fc6a3a1c39f8ebfa2395cd6f0b7c8b8e194215"
-                  },
-                  {
-                      "path":  "data.003",
-                      "size":  875116280,
-                      "sha256":  "905667ecaf53ba7a71da7ec89eeefbd55ae097c6478eac5f502d9ea00370fb14"
-                  },
-                  {
-                      "path":  "data.004",
-                      "size":  854289037,
-                      "sha256":  "28c1b3726f5ece5e0430df424c4873eeb9b651f098371c0b02d3528a1cabd4e5"
-                  },
-                  {
-                      "path":  "data.005",
-                      "size":  752702666,
-                      "sha256":  "ec9f5719984ed6e1d2e5b2eb8c5af757c426f5b8e6d6825a296bb18af219793e"
-                  },
-                  {
-                      "path":  "data.006",
-                      "size":  779491571,
-                      "sha256":  "9f84c7d815fb4aa986f08da0a27917064deed8758421bd2c503de081acef0d7f"
-                  },
-                  {
-                      "path":  "data.007",
-                      "size":  809716957,
-                      "sha256":  "7a953cf21c211582c2d11d3949c4b83ba4ae42ec10675a5ebb6a22e73a156be4"
-                  },
-                  {
-                      "path":  "data.008",
-                      "size":  853611875,
-                      "sha256":  "429b73cd089d98588add43a7128d45e71428df4c901ba9602bf00ae257ec0f57"
-                  },
-                  {
-                      "path":  "data.rar",
-                      "size":  4667394,
-                      "sha256":  "2c3afa28b0d160f22dc68deb5c30a3531876676065f61e83dc9af82cb859c4d4"
-                  },
-                  {
-                      "path":  "dbghelp.dll",
-                      "size":  665600,
-                      "sha256":  "89a65039d18a7becab8b45334847d3e9e5bc8da9e7f54a598b53c34c1df537e9"
-                  },
-                  {
-                      "path":  "DevIL.dll",
-                      "size":  864256,
-                      "sha256":  "4314108770fd258c5f22726ae4e4092def6ce68bce2d158d7ef1a515408c5129"
-                  },
-                  {
-                      "path":  "etc/fonts/fonts.conf",
-                      "size":  5226,
-                      "sha256":  "68011bc3741ebcea48f08ff2aed8519762a946f3e0fb9c224b1d3810ebf5bf4b"
-                  },
-                  {
-                      "path":  "external_license.txt",
-                      "size":  163808,
-                      "sha256":  "8f9c09f75cebb5a92ebb29c818d2f6f556b27a73c8109b59769bbb28c3669fb1"
-                  },
-                  {
-                      "path":  "freetype6.dll",
-                      "size":  551096,
-                      "sha256":  "2f44cbfe8b02974e029fa4b97f4bc342553167d6f715be082f8f52ac604cbb66"
-                  },
-                  {
-                      "path":  "GameGuard/0npgg.erl",
-                      "size":  42910,
-                      "sha256":  "d6c8040cd2de61d1f1487fb5b1afbe2c1b346d7157ee889a13385a061177ae7e"
-                  },
-                  {
-                      "path":  "GameGuard/0npgl.erl",
-                      "size":  23404,
-                      "sha256":  "eb7d05d19856865319cd7fc49ca6d89d48853fdd757dd8ebe448c57e925b500a"
-                  },
-                  {
-                      "path":  "GameGuard/1npgg.erl",
-                      "size":  43156,
-                      "sha256":  "443ea770eaac8f9b56766cc61276c63dfc9e50b575a8118561fe746aff35d770"
-                  },
-                  {
-                      "path":  "GameGuard/1npgl.erl",
-                      "size":  23404,
-                      "sha256":  "dbb369ee429f3871080057b1b2c73b02499194573baa55d5f36341400f645953"
-                  },
-                  {
-                      "path":  "GameGuard/GameGuard.ver",
-                      "size":  25,
-                      "sha256":  "90c8176c8ebe9ca81f3ffdb9a8f050ab9656314de01d9ce1ed07063e3172d58a"
-                  },
-                  {
-                      "path":  "GameGuard/npgg.erl",
-                      "size":  42664,
-                      "sha256":  "2a6c686ac9aca9bd3559ecfc9df8c2487fc9672f050e0506a37fba768798f145"
-                  },
-                  {
-                      "path":  "GameGuard/npgl.erl",
-                      "size":  23220,
-                      "sha256":  "643c998d1114281110454e9d5031fc376e58cfa290243a990cb56c82751edd45"
-                  },
-                  {
-                      "path":  "GameGuard/npgmup.des",
-                      "size":  234768,
-                      "sha256":  "590caf1009ea03c55f6ee93aeb02e027cd61c55a1c69cf33745d69111d7ba0d8"
-                  },
-                  {
-                      "path":  "GameGuard/RappelzUS.ini",
-                      "size":  1174,
-                      "sha256":  "ef0e7c84d50fe1355a001fa99485b22df1f1e14bfc7735ea791eec8df3341fcc"
-                  },
-                  {
-                      "path":  "GameGuard.des",
-                      "size":  527176,
-                      "sha256":  "4c9a9ab3c65d644020f91e399c1a38fcb67353810fbc2dee148b1274832655ce"
-                  },
-                  {
-                      "path":  "ILU.dll",
-                      "size":  81920,
-                      "sha256":  "4d89c82352a058b111ece0a7f618c6b661208c42e06b4e7a3175e457721f23b6"
-                  },
-                  {
-                      "path":  "ILUT.dll",
-                      "size":  36864,
-                      "sha256":  "fea47a8399fd5db956c60aa38a0a64cf598bb2a045e6802a3d3d5a6b73b5fdcd"
-                  },
-                  {
-                      "path":  "intl.dll",
-                      "size":  152489,
-                      "sha256":  "682d4277092472cac940558f9e679b44a6394159e49c9bbda299e33bfc6fdc92"
-                  },
-                  {
-                      "path":  "Ionic.Zip.dll",
-                      "size":  352768,
-                      "sha256":  "706c6b9140e85ace693e2dcaadcf50830f99c7b09da0d7afc5d1f41c3794c08d"
-                  },
-                  {
-                      "path":  "Ionic.Zip_2.dll",
-                      "size":  502784,
-                      "sha256":  "fe6c853b536c444a66f45cabdae3334b1ab4db560b6eaa4e8a6a975c48323a45"
-                  },
-                  {
-                      "path":  "libcairo-2.dll",
-                      "size":  1294335,
-                      "sha256":  "d91d6b0577e0334aa63d9ab8a31edc16270d00f60c32eb7bcc50092d81cb6a21"
-                  },
-                  {
-                      "path":  "libexpat-1.dll",
-                      "size":  143096,
-                      "sha256":  "f2e500f501c03d3d09609c6d0b2ea4c51bb433762d9c8f82ac6163877a780bc8"
-                  },
-                  {
-                      "path":  "libexpat.dll",
-                      "size":  147456,
-                      "sha256":  "09072c6dba447d66d1a591bdfa9306a6887668c999bc5ffbcfc697bd8f831e70"
-                  },
-                  {
-                      "path":  "libfontconfig-1.dll",
-                      "size":  279059,
-                      "sha256":  "1c0a17ef42755d653d496dd7f52a4a2ca488b89ea1cf0df08f7fa32216f4c051"
-                  },
-                  {
-                      "path":  "libgio-2.0-0.dll",
-                      "size":  446898,
-                      "sha256":  "3ce5725a81e95a2853810a6c1eb93f5cbe56e49257051a3aa2cdd27779a3fabf"
-                  },
-                  {
-                      "path":  "libglib-2.0-0.dll",
-                      "size":  1242929,
-                      "sha256":  "c0f35b0e5f9b25f36bf9ef885a8135e7dcdb77d425f8ac88124d90cf2bf32fde"
-                  },
-                  {
-                      "path":  "libgmodule-2.0-0.dll",
-                      "size":  36986,
-                      "sha256":  "1e2332ed84bb447fe814e9201effe88e682fd9b2da89e2b1a27aef1c786b6589"
-                  },
-                  {
-                      "path":  "libgobject-2.0-0.dll",
-                      "size":  341594,
-                      "sha256":  "75b4e8a0757f7db26ef195f3c5e2da5770d95c3af081c2cdae0ec15b460aa9ea"
-                  },
-                  {
-                      "path":  "libgthread-2.0-0.dll",
-                      "size":  44287,
-                      "sha256":  "ee2e8485fdbfb2c5626099ccafcdc41ac60414dffd5c6c3befaf786634baf5c3"
-                  },
-                  {
-                      "path":  "libiconv2.dll",
-                      "size":  978432,
-                      "sha256":  "cb016e794d3311c71f21d87803e10a0e1133995f62a485eb37b321cd9b9e1087"
-                  },
-                  {
-                      "path":  "libpango-1.0-0.dll",
-                      "size":  333729,
-                      "sha256":  "cbd61867459abd458b5de5b6f3213f864cb11db52986e39631a643da7c3844de"
-                  },
-                  {
-                      "path":  "libpangocairo-1.0-0.dll",
-                      "size":  104729,
-                      "sha256":  "29e2828266d52c4be341e6212fa22bf54b509fb8e0c2057385667d6b5073c38e"
-                  },
-                  {
-                      "path":  "libpangoft2-1.0-0.dll",
-                      "size":  815421,
-                      "sha256":  "dc34dbce591fbb9b4dc287897c2eb67b735edd1dba63841a48b16ea477b9ec14"
-                  },
-                  {
-                      "path":  "libpangowin32-1.0-0.dll",
-                      "size":  108945,
-                      "sha256":  "0a52dc82c58ee95b6d311f3936701593af2ef7055fb12eadaa489574f39a96e0"
-                  },
-                  {
-                      "path":  "libpng12-0.dll",
-                      "size":  202923,
-                      "sha256":  "1ac171d55301bafb73bf467bec612217da0690afa0a8e0a7e59674879796dc30"
-                  },
-                  {
-                      "path":  "libpng14-14.dll",
-                      "size":  230529,
-                      "sha256":  "7644c698cb5c823b9fd238d9e88b25d14e04816a0a2c77c48170309957c69efd"
-                  },
-                  {
-                      "path":  "lua5.1.dll",
-                      "size":  325960,
-                      "sha256":  "12cb9b8f59c00ef40ea8f28bfc59a29f12dc28332bf44b1a5d8d6a8823365650"
-                  },
-                  {
-                      "path":  "mscorlib.dll",
-                      "size":  1998848,
-                      "sha256":  "7da8ed7eb3754b4454e5ce6e81edb88b0648314026f5848ca02dc10fbcad13ec"
-                  },
-                  {
-                      "path":  "mss32.dll",
-                      "size":  386048,
-                      "sha256":  "44ceeffd9cb85845d1e068b45f7cc571e4f314c5328b00721d5bcfd3e26b45b8"
-                  },
-                  {
-                      "path":  "RappelzCmdLauncher.exe",
-                      "size":  34304,
-                      "sha256":  "6230684e0b1eb096d39564f742ecf0d36f5ec8b2986917ceaab8db74cf75f1f6"
-                  },
-                  {
-                      "path":  "RappelzConfig.exe",
-                      "size":  1421312,
-                      "sha256":  "065d4a6196b63aca3a4252621b67e1e21c92791c9c5b1b0cc67d7fd17e3d1b13"
-                  },
-                  {
-                      "path":  "Resource/01_rappelz.ogg",
-                      "size":  6455245,
-                      "sha256":  "fbdd3e69573b04ee9118642930536aff12712572c1f96046b0ea0aa253702b66"
-                  },
-                  {
-                      "path":  "Resource/02_an_epic_of_the_absolute_creature.ogg",
-                      "size":  5294635,
-                      "sha256":  "9228cb9021ccb359dbf790ffdc9a97416ae0613de1df53c7c8593d71a6e83e6d"
-                  },
-                  {
-                      "path":  "Resource/03_earths_instability.ogg",
-                      "size":  5308167,
-                      "sha256":  "c7b3f4c07fc8fd9bce3ff24d84835b5cda56c7846aaea8e1de0df7239001aa3c"
-                  },
-                  {
-                      "path":  "Resource/04_resonance_of_world.ogg",
-                      "size":  3245087,
-                      "sha256":  "95e769e34986e8ddd4aef7ca9c1fdad2c8d7aa33a6e33825c4609f2d2b2c619c"
-                  },
-                  {
-                      "path":  "Resource/05_pioneer_of_distorted_land.ogg",
-                      "size":  5117853,
-                      "sha256":  "734769fb71e2f5f3e2c60d31c41eed75400e16be633896c16aba57853681474d"
-                  },
-                  {
-                      "path":  "Resource/06_raksih.ogg",
-                      "size":  2871030,
-                      "sha256":  "80602e4dfe52e0fb1921b5e2f99ed35937f2a36ff98f928503e57cd9fdd9e6a2"
-                  },
-                  {
-                      "path":  "Resource/07_stormy_darkness.ogg",
-                      "size":  4100870,
-                      "sha256":  "5169185016a43995b4f4094646f40ddbc8f7188652cbcc4a50840c1fdd6e6c55"
-                  },
-                  {
-                      "path":  "Resource/08_march_of_temple_knight.ogg",
-                      "size":  6405242,
-                      "sha256":  "114b76379a48ae09b1d99f91b8851bed2093cfdd425245be65af161a9afb34ba"
-                  },
-                  {
-                      "path":  "Resource/09_lightless_field.ogg",
-                      "size":  7842953,
-                      "sha256":  "c3d1e4a5ddb95c90af8bf75c38186a9a4811f761ec6dfa545aefe7c15b259f85"
-                  },
-                  {
-                      "path":  "Resource/10_gaia.ogg",
-                      "size":  1963644,
-                      "sha256":  "7bda775a2eddfa054c037138c3e1c178324f6ff9f4cc9cf7e435ac46c9706765"
-                  },
-                  {
-                      "path":  "Resource/11_horaizen_in_the_sunset.ogg",
-                      "size":  4910381,
-                      "sha256":  "07c5998269b67db6774c4f91a9a3820cd87557553c07a52424e70161af4645e6"
-                  },
-                  {
-                      "path":  "Resource/12_disguised_men.ogg",
-                      "size":  4156869,
-                      "sha256":  "696a544e94f645277a93afcc056ab4091fe1899873703771814aeb292347f84f"
-                  },
-                  {
-                      "path":  "Resource/13_this_is_the_sun_of_today.ogg",
-                      "size":  4901242,
-                      "sha256":  "89762bd7bd97c5c8cbe3f3c502f5cbb4e03d40920e75ab7a606e5f538caae4e9"
-                  },
-                  {
-                      "path":  "Resource/14_breeze_of_old_forest.ogg",
-                      "size":  7458928,
-                      "sha256":  "7f6c655c0fa56d3dd0b59716fe70ef02052988d9f1e7664daad82e4d163a6c70"
-                  },
-                  {
-                      "path":  "Resource/15_mythical_desert.ogg",
-                      "size":  7439019,
-                      "sha256":  "6fe0daf9c344f8be970915c1c1a74d833005561d91e14f38f64a271d5f4ff3b7"
-                  },
-                  {
-                      "path":  "Resource/16_dusk_kahthan.ogg",
-                      "size":  7119442,
-                      "sha256":  "dcfd11d0141835e9436b80a5e7d4ecd09a2926c7de37182ab2795c02e042d076"
-                  },
-                  {
-                      "path":  "Resource/17_crystal_mountain.ogg",
-                      "size":  6643284,
-                      "sha256":  "0f7ff039a09abfb2e709db0ab6821d63639482c33c0b7f4893b0c8974852af83"
-                  },
-                  {
-                      "path":  "Resource/18_sleeping_ruin_in_the_bleak_land.ogg",
-                      "size":  7950189,
-                      "sha256":  "bdc33674ebd5d048469eda58b7e0bc13e1ef4ca9bb41196c5fd98dc942072c54"
-                  },
-                  {
-                      "path":  "Resource/19_morning_breaks_of_rondoh.ogg",
-                      "size":  6876553,
-                      "sha256":  "ae92d0e2ea568bd7e8fffc9232a2cdf4f74d6b01fe7fae5d8e307c81494c5df2"
-                  },
-                  {
-                      "path":  "Resource/bearload_world.ogg",
-                      "size":  2782626,
-                      "sha256":  "7083437d831c14f9ab66f02ea39e62e165f3e053b1092f2bf9898b361b5b58c4"
-                  },
-                  {
-                      "path":  "Resource/bgm_deathmatch_01.ogg",
-                      "size":  2416791,
-                      "sha256":  "c55007cd148f0e1a0e57f008611b3d6e2b7321f13d2549e992bde924e56486ce"
-                  },
-                  {
-                      "path":  "Resource/bgm_espoir_01.ogg",
-                      "size":  3273635,
-                      "sha256":  "c91f7bcffc1e6182b7fe384d4d578769cd2106e2633ad031fb4e4802b010e286"
-                  },
-                  {
-                      "path":  "Resource/bgm_espoir_02.ogg",
-                      "size":  4367068,
-                      "sha256":  "61bdbae67a894ef582cb07de3b98b1fecf6cd4cca5328e4410475e3703961621"
-                  },
-                  {
-                      "path":  "Resource/bgm_fake.ogg",
-                      "size":  2650,
-                      "sha256":  "89a5960015537b75021a7c69eebdf8391a2aaa8ca5cc5778faacece770ecc8ae"
-                  },
-                  {
-                      "path":  "Resource/bgm_halloween_01.ogg",
-                      "size":  5197874,
-                      "sha256":  "e57aa87abe8dfe6a1dbfb4746f1d374ba09761687fe2ffef40e164b78cc715bd"
-                  },
-                  {
-                      "path":  "Resource/bgm_lavaload.ogg",
-                      "size":  2036340,
-                      "sha256":  "b08155e425989bc70df0e6267c05f2dafb412133b525fe5985815a432351b3a5"
-                  },
-                  {
-                      "path":  "Resource/bgm_master.ogg",
-                      "size":  1972370,
-                      "sha256":  "161da627aa190267403e02fddef859915d2d9a01c01bb910e053bdc3699576a4"
-                  },
-                  {
-                      "path":  "Resource/bgm_navislamia_01.ogg",
-                      "size":  3224005,
-                      "sha256":  "e2183b5a4494c3187eacef774919ade42a974a99bc1da92ba436ef14d4feb3c6"
-                  },
-                  {
-                      "path":  "Resource/company.ogg",
-                      "size":  53255,
-                      "sha256":  "b91574415e9e0b4c0dadba9fd6cad26f89c9696cee6d9f357756d9dcb5f4690c"
-                  },
-                  {
-                      "path":  "Resource/epic6_golden_monarch_intro_bg.ogg",
-                      "size":  1273354,
-                      "sha256":  "d3ac2bc0fe4701b80badcd174677ec420dc1e0c805847794e585c2e9f4a4b17a"
-                  },
-                  {
-                      "path":  "Resource/epic6_resurrection_intro_bg.ogg",
-                      "size":  1844744,
-                      "sha256":  "c5729d87478ca447fdb1b1177a53a4b0daf61b2db838978b95db3a8bd847cee8"
-                  },
-                  {
-                      "path":  "Resource/event01.ogg",
-                      "size":  3498498,
-                      "sha256":  "5fd77a8f269cb72a22e5233f728f97d2d03281d7225d9b885388a19c9055a8f9"
-                  },
-                  {
-                      "path":  "Resource/hidden]_grave_in_assassin_guild.ogg",
-                      "size":  3287491,
-                      "sha256":  "d48d311b355907e789fac328268cbf82d049f74c42dbbb8f2fd8d2ec35da81ed"
-                  },
-                  {
-                      "path":  "Resource/jpg/lobby_login_image.jpg",
-                      "size":  1678246,
-                      "sha256":  "23476d66e4f0ba78ff857516f5acb623ebbb0dcb47cf262bdc3998f0186a60bc"
-                  },
-                  {
-                      "path":  "Resource/logomaster.ogg",
-                      "size":  185243,
-                      "sha256":  "78ffc9db5739e00f9011ecb5e5688b8f012cf5cc45cd37b7ec00f01047654038"
-                  },
-                  {
-                      "path":  "Resource/lostsecret_island.ogg",
-                      "size":  4160982,
-                      "sha256":  "3bd655be5a6cf6681b7ee4d029bb2693c4616a9b22ea8b8e70d03c0644b97eae"
-                  },
-                  {
-                      "path":  "Resource/navislamia_intro_bg.ogg",
-                      "size":  675811,
-                      "sha256":  "1cf142ead6bb9b9162b6dc8ec19e710eb146851f39e77a70208d88d106028243"
-                  },
-                  {
-                      "path":  "Resource/publisher.ogg",
-                      "size":  122295,
-                      "sha256":  "dceeb4238cab6ddf9907ec0b46aeebed09f13c08380e6c9b4c016d6db74eb224"
-                  },
-                  {
-                      "path":  "Resource/rappelz_newmain.ogg",
-                      "size":  4949394,
-                      "sha256":  "636c2ba202db638734cdfa303333adcccf5c6416b60c83ab3cd4f8fbb4de8f65"
-                  },
-                  {
-                      "path":  "Resource/Script/UIWindows_addon_script.lua",
-                      "size":  9573,
-                      "sha256":  "fa7436b639e70a8f6b89ee1084d0732ef03dc2d59b2ba2256ecb0ac56037fc19"
-                  },
-                  {
-                      "path":  "Resource/whitedragon_island.ogg",
-                      "size":  2699145,
-                      "sha256":  "b86ca97d7ea18324d8cbf19cda61331bcd1765db38f1d66b7153a4a72fe60317"
-                  },
-                  {
-                      "path":  "Resource/window_sanctuary_bosses.nui",
-                      "size":  7251,
-                      "sha256":  "046a5658aa3d35ab6baef4a2ab168b7c9934290d4f8dc396e811c38967840fcc"
-                  },
-                  {
-                      "path":  "SFrame.exe",
-                      "size":  7524536,
-                      "sha256":  "2319bab486b50519b5049f4e94b7c054e4c8b0ecfbe98ac98bc5ade98c53bf39"
-                  },
-                  {
-                      "path":  "SFrame_arabic.exe",
-                      "size":  7521464,
-                      "sha256":  "ffc138dd75b6d8533b8157029767df0f8f94067029de48755134a0a114bda642"
-                  },
-                  {
-                      "path":  "SplashLoading.exe",
-                      "size":  2083912,
-                      "sha256":  "3c743c6dd47211e5ffb655d29ac61dd05bbd377cf8e4d3ac09bae7e39a6dee79"
-                  },
-                  {
-                      "path":  "Win98sUpdateUtil.exe",
-                      "size":  303104,
-                      "sha256":  "c9f8a2a72e2d97d43115cb54a81d8d3f465919bebf4b20adb7735da9b40b1286"
-                  },
-                  {
-                      "path":  "zlib1.dll",
-                      "size":  100352,
-                      "sha256":  "104162a59e7784e1fe2ec0b7db8836e1eb905abfd1602a05d86debe930b40cbf"
-                  }
-              ]
+  "product": "RZ Sanctuary",
+  "version": "9.5.2.0",
+  "files": [
+    {
+      "path": "audiere.dll",
+      "size": 512000,
+      "sha256": "90e59c4f60941a2838d46e20fb78ba0cf71e9cfd0782e291ca876645e3794a66"
+    },
+    {
+      "path": "cam/Admin_cam.txt",
+      "size": 50,
+      "sha256": "06c7f2d630bcbaee6f372eba10eff9d3d5a88346793f374104047104025a4d7e"
+    },
+    {
+      "path": "cam/Assasin_cam.txt",
+      "size": 51,
+      "sha256": "ecd7a3b8e3eec988fe42fcd7a33b737b76d835bd0d11e300266e95d02f2173a0"
+    },
+    {
+      "path": "cam/Chupik_cam.txt",
+      "size": 51,
+      "sha256": "ac7197fa4728faae3976eb4d66986eec924e63faa6f1f8fdba878d6c2110dc79"
+    },
+    {
+      "path": "cam/Hektor_cam.txt",
+      "size": 50,
+      "sha256": "d68a8a31ee9e8f7251c8142a1aa516fbcc2c18e1533ade539d23c73ce71f0c8f"
+    },
+    {
+      "path": "cam/MasterBreeder_cam.txt",
+      "size": 50,
+      "sha256": "8e069402f851ebda6b356f260e12df03e9aefdfb5c1d833daf864b62f30421d1"
+    },
+    {
+      "path": "cam/ranger_cam.txt",
+      "size": 50,
+      "sha256": "2c5cb44ab3cf6b1a4b035230be286e00d516457c4c8d49d4d9a0a8c2c6d8a82a"
+    },
+    {
+      "path": "cam/TestServer_cam.txt",
+      "size": 51,
+      "sha256": "5e4188290adeb08416a4232280d211bbc1173f50b5827ac89e4891eb3ffc6184"
+    },
+    {
+      "path": "cam/Void_cam.txt",
+      "size": 50,
+      "sha256": "798d6923ebaa93f284a1d5b373823635cf41f028bf19af64886d057fc207c22e"
+    },
+    {
+      "path": "cario.dll",
+      "size": 1839104,
+      "sha256": "41dda1d20624a814d00e14d39f473bc8dd64b58dc672488e7d5bf03d65d7d0f4"
+    },
+    {
+      "path": "client_option.ini",
+      "size": 1,
+      "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    },
+    {
+      "path": "customcamera.ini",
+      "size": 63,
+      "sha256": "eb3a69d650c26f2047e401438d0616966c4f54ed91c5f8131c34ec86e44a5075"
+    },
+    {
+      "path": "d3dx9_31.dll",
+      "size": 2414360,
+      "sha256": "e2065619fe6eb0034833b1dc0369deb4a6edc3110e38a1132eeafcf430c578a5"
+    },
+    {
+      "path": "d3dx9_40.dll",
+      "size": 4379984,
+      "sha256": "16fd909aeb68d0d1aca8529dc7f78880b97d6649d70ce8d03a2c858bc28e216b"
+    },
+    {
+      "path": "data.000",
+      "size": 5258403,
+      "sha256": "77ad1325f41388027f7aea75965bd7563c7651251f2e80ebdec0a3c619a9a80f"
+    },
+    {
+      "path": "data.001",
+      "size": 848371934,
+      "sha256": "1b9885f0e412772f48fe7fe9b1db4f4a5ef8bac7c0641dd258c34ccf6a01ab1e"
+    },
+    {
+      "path": "data.002",
+      "size": 806755098,
+      "sha256": "32c3013db08e1d9b0a1a03aac9fc6a3a1c39f8ebfa2395cd6f0b7c8b8e194215"
+    },
+    {
+      "path": "data.003",
+      "size": 875116280,
+      "sha256": "905667ecaf53ba7a71da7ec89eeefbd55ae097c6478eac5f502d9ea00370fb14"
+    },
+    {
+      "path": "data.004",
+      "size": 854289037,
+      "sha256": "28c1b3726f5ece5e0430df424c4873eeb9b651f098371c0b02d3528a1cabd4e5"
+    },
+    {
+      "path": "data.005",
+      "size": 752702666,
+      "sha256": "ec9f5719984ed6e1d2e5b2eb8c5af757c426f5b8e6d6825a296bb18af219793e"
+    },
+    {
+      "path": "data.006",
+      "size": 779491571,
+      "sha256": "9f84c7d815fb4aa986f08da0a27917064deed8758421bd2c503de081acef0d7f"
+    },
+    {
+      "path": "data.007",
+      "size": 809716957,
+      "sha256": "7a953cf21c211582c2d11d3949c4b83ba4ae42ec10675a5ebb6a22e73a156be4"
+    },
+    {
+      "path": "data.008",
+      "size": 853611875,
+      "sha256": "429b73cd089d98588add43a7128d45e71428df4c901ba9602bf00ae257ec0f57"
+    },
+    {
+      "path": "data.rar",
+      "size": 4667394,
+      "sha256": "2c3afa28b0d160f22dc68deb5c30a3531876676065f61e83dc9af82cb859c4d4"
+    },
+    {
+      "path": "dbghelp.dll",
+      "size": 665600,
+      "sha256": "89a65039d18a7becab8b45334847d3e9e5bc8da9e7f54a598b53c34c1df537e9"
+    },
+    {
+      "path": "DevIL.dll",
+      "size": 864256,
+      "sha256": "4314108770fd258c5f22726ae4e4092def6ce68bce2d158d7ef1a515408c5129"
+    },
+    {
+      "path": "etc/fonts/fonts.conf",
+      "size": 5226,
+      "sha256": "68011bc3741ebcea48f08ff2aed8519762a946f3e0fb9c224b1d3810ebf5bf4b"
+    },
+    {
+      "path": "external_license.txt",
+      "size": 163808,
+      "sha256": "8f9c09f75cebb5a92ebb29c818d2f6f556b27a73c8109b59769bbb28c3669fb1"
+    },
+    {
+      "path": "freetype6.dll",
+      "size": 551096,
+      "sha256": "2f44cbfe8b02974e029fa4b97f4bc342553167d6f715be082f8f52ac604cbb66"
+    },
+    {
+      "path": "GameGuard/0npgg.erl",
+      "size": 42910,
+      "sha256": "d6c8040cd2de61d1f1487fb5b1afbe2c1b346d7157ee889a13385a061177ae7e"
+    },
+    {
+      "path": "GameGuard/0npgl.erl",
+      "size": 23404,
+      "sha256": "eb7d05d19856865319cd7fc49ca6d89d48853fdd757dd8ebe448c57e925b500a"
+    },
+    {
+      "path": "GameGuard/1npgg.erl",
+      "size": 43156,
+      "sha256": "443ea770eaac8f9b56766cc61276c63dfc9e50b575a8118561fe746aff35d770"
+    },
+    {
+      "path": "GameGuard/1npgl.erl",
+      "size": 23404,
+      "sha256": "dbb369ee429f3871080057b1b2c73b02499194573baa55d5f36341400f645953"
+    },
+    {
+      "path": "GameGuard/GameGuard.ver",
+      "size": 25,
+      "sha256": "90c8176c8ebe9ca81f3ffdb9a8f050ab9656314de01d9ce1ed07063e3172d58a"
+    },
+    {
+      "path": "GameGuard/npgg.erl",
+      "size": 42664,
+      "sha256": "2a6c686ac9aca9bd3559ecfc9df8c2487fc9672f050e0506a37fba768798f145"
+    },
+    {
+      "path": "GameGuard/npgl.erl",
+      "size": 23220,
+      "sha256": "643c998d1114281110454e9d5031fc376e58cfa290243a990cb56c82751edd45"
+    },
+    {
+      "path": "GameGuard/npgmup.des",
+      "size": 234768,
+      "sha256": "590caf1009ea03c55f6ee93aeb02e027cd61c55a1c69cf33745d69111d7ba0d8"
+    },
+    {
+      "path": "GameGuard/RappelzUS.ini",
+      "size": 1174,
+      "sha256": "ef0e7c84d50fe1355a001fa99485b22df1f1e14bfc7735ea791eec8df3341fcc"
+    },
+    {
+      "path": "GameGuard.des",
+      "size": 527176,
+      "sha256": "4c9a9ab3c65d644020f91e399c1a38fcb67353810fbc2dee148b1274832655ce"
+    },
+    {
+      "path": "ILU.dll",
+      "size": 81920,
+      "sha256": "4d89c82352a058b111ece0a7f618c6b661208c42e06b4e7a3175e457721f23b6"
+    },
+    {
+      "path": "ILUT.dll",
+      "size": 36864,
+      "sha256": "fea47a8399fd5db956c60aa38a0a64cf598bb2a045e6802a3d3d5a6b73b5fdcd"
+    },
+    {
+      "path": "intl.dll",
+      "size": 152489,
+      "sha256": "682d4277092472cac940558f9e679b44a6394159e49c9bbda299e33bfc6fdc92"
+    },
+    {
+      "path": "Ionic.Zip.dll",
+      "size": 352768,
+      "sha256": "706c6b9140e85ace693e2dcaadcf50830f99c7b09da0d7afc5d1f41c3794c08d"
+    },
+    {
+      "path": "Ionic.Zip_2.dll",
+      "size": 502784,
+      "sha256": "fe6c853b536c444a66f45cabdae3334b1ab4db560b6eaa4e8a6a975c48323a45"
+    },
+    {
+      "path": "libcairo-2.dll",
+      "size": 1294335,
+      "sha256": "d91d6b0577e0334aa63d9ab8a31edc16270d00f60c32eb7bcc50092d81cb6a21"
+    },
+    {
+      "path": "libexpat-1.dll",
+      "size": 143096,
+      "sha256": "f2e500f501c03d3d09609c6d0b2ea4c51bb433762d9c8f82ac6163877a780bc8"
+    },
+    {
+      "path": "libexpat.dll",
+      "size": 147456,
+      "sha256": "09072c6dba447d66d1a591bdfa9306a6887668c999bc5ffbcfc697bd8f831e70"
+    },
+    {
+      "path": "libfontconfig-1.dll",
+      "size": 279059,
+      "sha256": "1c0a17ef42755d653d496dd7f52a4a2ca488b89ea1cf0df08f7fa32216f4c051"
+    },
+    {
+      "path": "libgio-2.0-0.dll",
+      "size": 446898,
+      "sha256": "3ce5725a81e95a2853810a6c1eb93f5cbe56e49257051a3aa2cdd27779a3fabf"
+    },
+    {
+      "path": "libglib-2.0-0.dll",
+      "size": 1242929,
+      "sha256": "c0f35b0e5f9b25f36bf9ef885a8135e7dcdb77d425f8ac88124d90cf2bf32fde"
+    },
+    {
+      "path": "libgmodule-2.0-0.dll",
+      "size": 36986,
+      "sha256": "1e2332ed84bb447fe814e9201effe88e682fd9b2da89e2b1a27aef1c786b6589"
+    },
+    {
+      "path": "libgobject-2.0-0.dll",
+      "size": 341594,
+      "sha256": "75b4e8a0757f7db26ef195f3c5e2da5770d95c3af081c2cdae0ec15b460aa9ea"
+    },
+    {
+      "path": "libgthread-2.0-0.dll",
+      "size": 44287,
+      "sha256": "ee2e8485fdbfb2c5626099ccafcdc41ac60414dffd5c6c3befaf786634baf5c3"
+    },
+    {
+      "path": "libiconv2.dll",
+      "size": 978432,
+      "sha256": "cb016e794d3311c71f21d87803e10a0e1133995f62a485eb37b321cd9b9e1087"
+    },
+    {
+      "path": "libpango-1.0-0.dll",
+      "size": 333729,
+      "sha256": "cbd61867459abd458b5de5b6f3213f864cb11db52986e39631a643da7c3844de"
+    },
+    {
+      "path": "libpangocairo-1.0-0.dll",
+      "size": 104729,
+      "sha256": "29e2828266d52c4be341e6212fa22bf54b509fb8e0c2057385667d6b5073c38e"
+    },
+    {
+      "path": "libpangoft2-1.0-0.dll",
+      "size": 815421,
+      "sha256": "dc34dbce591fbb9b4dc287897c2eb67b735edd1dba63841a48b16ea477b9ec14"
+    },
+    {
+      "path": "libpangowin32-1.0-0.dll",
+      "size": 108945,
+      "sha256": "0a52dc82c58ee95b6d311f3936701593af2ef7055fb12eadaa489574f39a96e0"
+    },
+    {
+      "path": "libpng12-0.dll",
+      "size": 202923,
+      "sha256": "1ac171d55301bafb73bf467bec612217da0690afa0a8e0a7e59674879796dc30"
+    },
+    {
+      "path": "libpng14-14.dll",
+      "size": 230529,
+      "sha256": "7644c698cb5c823b9fd238d9e88b25d14e04816a0a2c77c48170309957c69efd"
+    },
+    {
+      "path": "lua5.1.dll",
+      "size": 325960,
+      "sha256": "12cb9b8f59c00ef40ea8f28bfc59a29f12dc28332bf44b1a5d8d6a8823365650"
+    },
+    {
+      "path": "mscorlib.dll",
+      "size": 1998848,
+      "sha256": "7da8ed7eb3754b4454e5ce6e81edb88b0648314026f5848ca02dc10fbcad13ec"
+    },
+    {
+      "path": "mss32.dll",
+      "size": 386048,
+      "sha256": "44ceeffd9cb85845d1e068b45f7cc571e4f314c5328b00721d5bcfd3e26b45b8"
+    },
+    {
+      "path": "RappelzCmdLauncher.exe",
+      "size": 34304,
+      "sha256": "6230684e0b1eb096d39564f742ecf0d36f5ec8b2986917ceaab8db74cf75f1f6"
+    },
+    {
+      "path": "RappelzConfig.exe",
+      "size": 1421312,
+      "sha256": "065d4a6196b63aca3a4252621b67e1e21c92791c9c5b1b0cc67d7fd17e3d1b13"
+    },
+    {
+      "path": "Resource/01_rappelz.ogg",
+      "size": 6455245,
+      "sha256": "fbdd3e69573b04ee9118642930536aff12712572c1f96046b0ea0aa253702b66"
+    },
+    {
+      "path": "Resource/02_an_epic_of_the_absolute_creature.ogg",
+      "size": 5294635,
+      "sha256": "9228cb9021ccb359dbf790ffdc9a97416ae0613de1df53c7c8593d71a6e83e6d"
+    },
+    {
+      "path": "Resource/03_earths_instability.ogg",
+      "size": 5308167,
+      "sha256": "c7b3f4c07fc8fd9bce3ff24d84835b5cda56c7846aaea8e1de0df7239001aa3c"
+    },
+    {
+      "path": "Resource/04_resonance_of_world.ogg",
+      "size": 3245087,
+      "sha256": "95e769e34986e8ddd4aef7ca9c1fdad2c8d7aa33a6e33825c4609f2d2b2c619c"
+    },
+    {
+      "path": "Resource/05_pioneer_of_distorted_land.ogg",
+      "size": 5117853,
+      "sha256": "734769fb71e2f5f3e2c60d31c41eed75400e16be633896c16aba57853681474d"
+    },
+    {
+      "path": "Resource/06_raksih.ogg",
+      "size": 2871030,
+      "sha256": "80602e4dfe52e0fb1921b5e2f99ed35937f2a36ff98f928503e57cd9fdd9e6a2"
+    },
+    {
+      "path": "Resource/07_stormy_darkness.ogg",
+      "size": 4100870,
+      "sha256": "5169185016a43995b4f4094646f40ddbc8f7188652cbcc4a50840c1fdd6e6c55"
+    },
+    {
+      "path": "Resource/08_march_of_temple_knight.ogg",
+      "size": 6405242,
+      "sha256": "114b76379a48ae09b1d99f91b8851bed2093cfdd425245be65af161a9afb34ba"
+    },
+    {
+      "path": "Resource/09_lightless_field.ogg",
+      "size": 7842953,
+      "sha256": "c3d1e4a5ddb95c90af8bf75c38186a9a4811f761ec6dfa545aefe7c15b259f85"
+    },
+    {
+      "path": "Resource/10_gaia.ogg",
+      "size": 1963644,
+      "sha256": "7bda775a2eddfa054c037138c3e1c178324f6ff9f4cc9cf7e435ac46c9706765"
+    },
+    {
+      "path": "Resource/11_horaizen_in_the_sunset.ogg",
+      "size": 4910381,
+      "sha256": "07c5998269b67db6774c4f91a9a3820cd87557553c07a52424e70161af4645e6"
+    },
+    {
+      "path": "Resource/12_disguised_men.ogg",
+      "size": 4156869,
+      "sha256": "696a544e94f645277a93afcc056ab4091fe1899873703771814aeb292347f84f"
+    },
+    {
+      "path": "Resource/13_this_is_the_sun_of_today.ogg",
+      "size": 4901242,
+      "sha256": "89762bd7bd97c5c8cbe3f3c502f5cbb4e03d40920e75ab7a606e5f538caae4e9"
+    },
+    {
+      "path": "Resource/14_breeze_of_old_forest.ogg",
+      "size": 7458928,
+      "sha256": "7f6c655c0fa56d3dd0b59716fe70ef02052988d9f1e7664daad82e4d163a6c70"
+    },
+    {
+      "path": "Resource/15_mythical_desert.ogg",
+      "size": 7439019,
+      "sha256": "6fe0daf9c344f8be970915c1c1a74d833005561d91e14f38f64a271d5f4ff3b7"
+    },
+    {
+      "path": "Resource/16_dusk_kahthan.ogg",
+      "size": 7119442,
+      "sha256": "dcfd11d0141835e9436b80a5e7d4ecd09a2926c7de37182ab2795c02e042d076"
+    },
+    {
+      "path": "Resource/17_crystal_mountain.ogg",
+      "size": 6643284,
+      "sha256": "0f7ff039a09abfb2e709db0ab6821d63639482c33c0b7f4893b0c8974852af83"
+    },
+    {
+      "path": "Resource/18_sleeping_ruin_in_the_bleak_land.ogg",
+      "size": 7950189,
+      "sha256": "bdc33674ebd5d048469eda58b7e0bc13e1ef4ca9bb41196c5fd98dc942072c54"
+    },
+    {
+      "path": "Resource/19_morning_breaks_of_rondoh.ogg",
+      "size": 6876553,
+      "sha256": "ae92d0e2ea568bd7e8fffc9232a2cdf4f74d6b01fe7fae5d8e307c81494c5df2"
+    },
+    {
+      "path": "Resource/bearload_world.ogg",
+      "size": 2782626,
+      "sha256": "7083437d831c14f9ab66f02ea39e62e165f3e053b1092f2bf9898b361b5b58c4"
+    },
+    {
+      "path": "Resource/bgm_deathmatch_01.ogg",
+      "size": 2416791,
+      "sha256": "c55007cd148f0e1a0e57f008611b3d6e2b7321f13d2549e992bde924e56486ce"
+    },
+    {
+      "path": "Resource/bgm_espoir_01.ogg",
+      "size": 3273635,
+      "sha256": "c91f7bcffc1e6182b7fe384d4d578769cd2106e2633ad031fb4e4802b010e286"
+    },
+    {
+      "path": "Resource/bgm_espoir_02.ogg",
+      "size": 4367068,
+      "sha256": "61bdbae67a894ef582cb07de3b98b1fecf6cd4cca5328e4410475e3703961621"
+    },
+    {
+      "path": "Resource/bgm_fake.ogg",
+      "size": 2650,
+      "sha256": "89a5960015537b75021a7c69eebdf8391a2aaa8ca5cc5778faacece770ecc8ae"
+    },
+    {
+      "path": "Resource/bgm_halloween_01.ogg",
+      "size": 5197874,
+      "sha256": "e57aa87abe8dfe6a1dbfb4746f1d374ba09761687fe2ffef40e164b78cc715bd"
+    },
+    {
+      "path": "Resource/bgm_lavaload.ogg",
+      "size": 2036340,
+      "sha256": "b08155e425989bc70df0e6267c05f2dafb412133b525fe5985815a432351b3a5"
+    },
+    {
+      "path": "Resource/bgm_master.ogg",
+      "size": 1972370,
+      "sha256": "161da627aa190267403e02fddef859915d2d9a01c01bb910e053bdc3699576a4"
+    },
+    {
+      "path": "Resource/bgm_navislamia_01.ogg",
+      "size": 3224005,
+      "sha256": "e2183b5a4494c3187eacef774919ade42a974a99bc1da92ba436ef14d4feb3c6"
+    },
+    {
+      "path": "Resource/company.ogg",
+      "size": 53255,
+      "sha256": "b91574415e9e0b4c0dadba9fd6cad26f89c9696cee6d9f357756d9dcb5f4690c"
+    },
+    {
+      "path": "Resource/epic6_golden_monarch_intro_bg.ogg",
+      "size": 1273354,
+      "sha256": "d3ac2bc0fe4701b80badcd174677ec420dc1e0c805847794e585c2e9f4a4b17a"
+    },
+    {
+      "path": "Resource/epic6_resurrection_intro_bg.ogg",
+      "size": 1844744,
+      "sha256": "c5729d87478ca447fdb1b1177a53a4b0daf61b2db838978b95db3a8bd847cee8"
+    },
+    {
+      "path": "Resource/event01.ogg",
+      "size": 3498498,
+      "sha256": "5fd77a8f269cb72a22e5233f728f97d2d03281d7225d9b885388a19c9055a8f9"
+    },
+    {
+      "path": "Resource/hidden]_grave_in_assassin_guild.ogg",
+      "size": 3287491,
+      "sha256": "d48d311b355907e789fac328268cbf82d049f74c42dbbb8f2fd8d2ec35da81ed"
+    },
+    {
+      "path": "Resource/jpg/lobby_login_image.jpg",
+      "size": 1678246,
+      "sha256": "23476d66e4f0ba78ff857516f5acb623ebbb0dcb47cf262bdc3998f0186a60bc"
+    },
+    {
+      "path": "Resource/logomaster.ogg",
+      "size": 185243,
+      "sha256": "78ffc9db5739e00f9011ecb5e5688b8f012cf5cc45cd37b7ec00f01047654038"
+    },
+    {
+      "path": "Resource/lostsecret_island.ogg",
+      "size": 4160982,
+      "sha256": "3bd655be5a6cf6681b7ee4d029bb2693c4616a9b22ea8b8e70d03c0644b97eae"
+    },
+    {
+      "path": "Resource/navislamia_intro_bg.ogg",
+      "size": 675811,
+      "sha256": "1cf142ead6bb9b9162b6dc8ec19e710eb146851f39e77a70208d88d106028243"
+    },
+    {
+      "path": "Resource/publisher.ogg",
+      "size": 122295,
+      "sha256": "dceeb4238cab6ddf9907ec0b46aeebed09f13c08380e6c9b4c016d6db74eb224"
+    },
+    {
+      "path": "Resource/rappelz_newmain.ogg",
+      "size": 4949394,
+      "sha256": "636c2ba202db638734cdfa303333adcccf5c6416b60c83ab3cd4f8fbb4de8f65"
+    },
+    {
+      "path": "Resource/Script/UIWindows_addon_script.lua",
+      "size": 9573,
+      "sha256": "fa7436b639e70a8f6b89ee1084d0732ef03dc2d59b2ba2256ecb0ac56037fc19"
+    },
+    {
+      "path": "Resource/whitedragon_island.ogg",
+      "size": 2699145,
+      "sha256": "b86ca97d7ea18324d8cbf19cda61331bcd1765db38f1d66b7153a4a72fe60317"
+    },
+    {
+      "path": "Resource/window_sanctuary_bosses.nui",
+      "size": 7251,
+      "sha256": "046a5658aa3d35ab6baef4a2ab168b7c9934290d4f8dc396e811c38967840fcc"
+    },
+    {
+      "path": "SFrame.exe",
+      "size": 7524536,
+      "sha256": "2319bab486b50519b5049f4e94b7c054e4c8b0ecfbe98ac98bc5ade98c53bf39"
+    },
+    {
+      "path": "SFrame_arabic.exe",
+      "size": 7521464,
+      "sha256": "ffc138dd75b6d8533b8157029767df0f8f94067029de48755134a0a114bda642"
+    },
+    {
+      "path": "SplashLoading.exe",
+      "size": 2083912,
+      "sha256": "3c743c6dd47211e5ffb655d29ac61dd05bbd377cf8e4d3ac09bae7e39a6dee79"
+    },
+    {
+      "path": "Win98sUpdateUtil.exe",
+      "size": 303104,
+      "sha256": "c9f8a2a72e2d97d43115cb54a81d8d3f465919bebf4b20adb7735da9b40b1286"
+    },
+    {
+      "path": "zlib1.dll",
+      "size": 100352,
+      "sha256": "104162a59e7784e1fe2ec0b7db8836e1eb905abfd1602a05d86debe930b40cbf"
+    }
+  ]
 }
