@@ -1,0 +1,25 @@
+{
+  "product": "RZ Sanctuary",
+  "channel": "stable",
+  "baseVersion": "9.5.2.0",
+  "latestVersion": "9.5.2.1",
+  "releases": [
+    {
+      "fromVersion": "9.5.2.0",
+      "toVersion": "9.5.2.1",
+      "tag": "v9.5.2.1-updater-test",
+      "assetName": "rzs-patch-9.5.2.1.zip",
+      "assetUrl": "https://github.com/dmitryzubenko28-boop/RZSanctuary-Client/releases/download/v9.5.2.1-updater-test/rzs-patch-9.5.2.1.zip",
+      "assetSize": 335,
+      "assetSha256": "9f8dfd33060747920ab09f2eacea02c678575278651da2ea36a6427da10a9337",
+      "files": [
+        {
+          "path": "Resource/test.txt",
+          "size": 37,
+          "sha256": "88fcf79e33758fb85e19e1bd27204366bee7eed4b61b69094b981a27e598c27f"
+        }
+      ],
+      "deleteFiles": []
+    }
+  ]
+}
