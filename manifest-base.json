@@ -1,0 +1,16 @@
+{
+  "product": "RZ Sanctuary",
+  "version": "9.5.2.0",
+  "files": [
+    {
+      "path": "Resource/test.txt",
+      "size": 17,
+      "sha256": "375c1d8236533e52afaf49141f03bd6e99b83d67c3f1295879814c76d9006a5a"
+    },
+    {
+      "path": "keep.txt",
+      "size": 15,
+      "sha256": "edda54ff3bb5a359eb6b35c23c2cedd983d7b31842ec77386718a28515c0b2d5"
+    }
+  ]
+}
