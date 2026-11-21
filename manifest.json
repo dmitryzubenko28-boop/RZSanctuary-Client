@@ -1,6 +1,6 @@
 {
   "product": "RZ Sanctuary",
-  "version": "9.5.2.0",
+  "version": "9.5.2.1",
   "files": [
     {
       "path": "!KITEKAT_LAUNCHER_EN.bat",
@@ -86,46 +86,6 @@
       "path": "data.000_BAK",
       "size": 5258403,
       "sha256": "b08f7b4726ee4c31b9dc151e5e9b99de984d22c6b94e09c26eba045a7ad31655"
-    },
-    {
-      "path": "data.001",
-      "size": 848371934,
-      "sha256": "1b9885f0e412772f48fe7fe9b1db4f4a5ef8bac7c0641dd258c34ccf6a01ab1e"
-    },
-    {
-      "path": "data.002",
-      "size": 806755098,
-      "sha256": "32c3013db08e1d9b0a1a03aac9fc6a3a1c39f8ebfa2395cd6f0b7c8b8e194215"
-    },
-    {
-      "path": "data.003",
-      "size": 875116280,
-      "sha256": "905667ecaf53ba7a71da7ec89eeefbd55ae097c6478eac5f502d9ea00370fb14"
-    },
-    {
-      "path": "data.004",
-      "size": 854289037,
-      "sha256": "28c1b3726f5ece5e0430df424c4873eeb9b651f098371c0b02d3528a1cabd4e5"
-    },
-    {
-      "path": "data.005",
-      "size": 752702666,
-      "sha256": "ec9f5719984ed6e1d2e5b2eb8c5af757c426f5b8e6d6825a296bb18af219793e"
-    },
-    {
-      "path": "data.006",
-      "size": 779491571,
-      "sha256": "9f84c7d815fb4aa986f08da0a27917064deed8758421bd2c503de081acef0d7f"
-    },
-    {
-      "path": "data.007",
-      "size": 809716957,
-      "sha256": "7a953cf21c211582c2d11d3949c4b83ba4ae42ec10675a5ebb6a22e73a156be4"
-    },
-    {
-      "path": "data.008",
-      "size": 853611875,
-      "sha256": "429b73cd089d98588add43a7128d45e71428df4c901ba9602bf00ae257ec0f57"
     },
     {
       "path": "data.rar",
@@ -238,14 +198,14 @@
       "sha256": "d91d6b0577e0334aa63d9ab8a31edc16270d00f60c32eb7bcc50092d81cb6a21"
     },
     {
-      "path": "libexpat-1.dll",
-      "size": 143096,
-      "sha256": "f2e500f501c03d3d09609c6d0b2ea4c51bb433762d9c8f82ac6163877a780bc8"
-    },
-    {
       "path": "libexpat.dll",
       "size": 147456,
       "sha256": "09072c6dba447d66d1a591bdfa9306a6887668c999bc5ffbcfc697bd8f831e70"
+    },
+    {
+      "path": "libexpat-1.dll",
+      "size": 143096,
+      "sha256": "f2e500f501c03d3d09609c6d0b2ea4c51bb433762d9c8f82ac6163877a780bc8"
     },
     {
       "path": "libfontconfig-1.dll",
@@ -586,6 +546,46 @@
       "path": "zlib1.dll",
       "size": 100352,
       "sha256": "104162a59e7784e1fe2ec0b7db8836e1eb905abfd1602a05d86debe930b40cbf"
+    },
+    {
+      "path": "data.001",
+      "size": 848371934,
+      "sha256": "1b9885f0e412772f48fe7fe9b1db4f4a5ef8bac7c0641dd258c34ccf6a01ab1e"
+    },
+    {
+      "path": "data.002",
+      "size": 806755098,
+      "sha256": "32c3013db08e1d9b0a1a03aac9fc6a3a1c39f8ebfa2395cd6f0b7c8b8e194215"
+    },
+    {
+      "path": "data.003",
+      "size": 875116280,
+      "sha256": "905667ecaf53ba7a71da7ec89eeefbd55ae097c6478eac5f502d9ea00370fb14"
+    },
+    {
+      "path": "data.004",
+      "size": 854289037,
+      "sha256": "28c1b3726f5ece5e0430df424c4873eeb9b651f098371c0b02d3528a1cabd4e5"
+    },
+    {
+      "path": "data.005",
+      "size": 752702666,
+      "sha256": "ec9f5719984ed6e1d2e5b2eb8c5af757c426f5b8e6d6825a296bb18af219793e"
+    },
+    {
+      "path": "data.006",
+      "size": 779491571,
+      "sha256": "9f84c7d815fb4aa986f08da0a27917064deed8758421bd2c503de081acef0d7f"
+    },
+    {
+      "path": "data.007",
+      "size": 809722129,
+      "sha256": "711defaaef207d774b613fefea41c965eaaec2329f87b9ee810df31a5efbce0b"
+    },
+    {
+      "path": "data.008",
+      "size": 853611875,
+      "sha256": "429b73cd089d98588add43a7128d45e71428df4c901ba9602bf00ae257ec0f57"
     }
   ]
 }
