@@ -2,7 +2,7 @@
   "product": "RZ Sanctuary",
   "channel": "stable",
   "baseVersion": "9.5.2.0",
-  "latestVersion": "9.5.2.0",
+  "latestVersion": "9.5.2.1",
   "baseArchives": [
     {
       "assetName": "rzs-base-9.5.2.0-part01.zip",
@@ -686,5 +686,23 @@
       ]
     }
   ],
-  "releases": []
+  "releases": [
+    {
+      "fromVersion": "9.5.2.0",
+      "toVersion": "9.5.2.1",
+      "tag": "v9.5.2.1-pet-exp-table",
+      "assetName": "rzs-patch-9.5.2.1-pet-exp-table.zip",
+      "assetUrl": "https://github.com/dmitryzubenko28-boop/RZSanctuary-Client/releases/download/v9.5.2.1-pet-exp-table/rzs-patch-9.5.2.1-pet-exp-table.zip",
+      "assetSize": 809845818,
+      "assetSha256": "7ebd93a460992dee3e2861254a82bdec3fce101cb5a6c990b42ece928d626586",
+      "files": [
+        {
+          "path": "data.007",
+          "size": 809722129,
+          "sha256": "711defaaef207d774b613fefea41c965eaaec2329f87b9ee810df31a5efbce0b"
+        }
+      ],
+      "deleteFiles": []
+    }
+  ]
 }
