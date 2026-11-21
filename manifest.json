@@ -3,6 +3,16 @@
   "version": "9.5.2.0",
   "files": [
     {
+      "path": "!KITEKAT_LAUNCHER_EN.bat",
+      "size": 249,
+      "sha256": "19fcb4c03391f07d3eb8827d9a2af50bc4fd9b95e7f9872b30554a4f9fe169ff"
+    },
+    {
+      "path": "!KITEKAT_LAUNCHER_RU.bat",
+      "size": 252,
+      "sha256": "fef7bb567642fe68e38f2c13f3c11e92aab9ff7fa9ae86a55daee67d0cd9e520"
+    },
+    {
       "path": "audiere.dll",
       "size": 512000,
       "sha256": "90e59c4f60941a2838d46e20fb78ba0cf71e9cfd0782e291ca876645e3794a66"
@@ -40,7 +50,7 @@
     {
       "path": "cam/TestServer_cam.txt",
       "size": 51,
-      "sha256": "99cd48f5235ab35abbfc2e831bad89950f4978468a203385384231f7ddd71ab9"
+      "sha256": "500148d49548a95b97ac9e56aae182eec3c99fa0cc39d5f5d0746860cacd9a8f"
     },
     {
       "path": "cam/Void_cam.txt",
@@ -53,14 +63,9 @@
       "sha256": "41dda1d20624a814d00e14d39f473bc8dd64b58dc672488e7d5bf03d65d7d0f4"
     },
     {
-      "path": "client_option.ini",
-      "size": 1,
-      "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
-    },
-    {
-      "path": "customcamera.ini",
-      "size": 63,
-      "sha256": "eb3a69d650c26f2047e401438d0616966c4f54ed91c5f8131c34ec86e44a5075"
+      "path": "corrupted.txt",
+      "size": 24214,
+      "sha256": "7dafbf61298018289fe4c8b56442f23be576da25d5a0172a1932b3d24805311c"
     },
     {
       "path": "d3dx9_31.dll",
@@ -76,6 +81,11 @@
       "path": "data.000",
       "size": 5258403,
       "sha256": "77ad1325f41388027f7aea75965bd7563c7651251f2e80ebdec0a3c619a9a80f"
+    },
+    {
+      "path": "data.000_BAK",
+      "size": 5258403,
+      "sha256": "b08f7b4726ee4c31b9dc151e5e9b99de984d22c6b94e09c26eba045a7ad31655"
     },
     {
       "path": "data.001",
@@ -148,6 +158,11 @@
       "sha256": "2f44cbfe8b02974e029fa4b97f4bc342553167d6f715be082f8f52ac604cbb66"
     },
     {
+      "path": "GameGuard.des",
+      "size": 527176,
+      "sha256": "4c9a9ab3c65d644020f91e399c1a38fcb67353810fbc2dee148b1274832655ce"
+    },
+    {
       "path": "GameGuard/0npgg.erl",
       "size": 42910,
       "sha256": "d6c8040cd2de61d1f1487fb5b1afbe2c1b346d7157ee889a13385a061177ae7e"
@@ -191,11 +206,6 @@
       "path": "GameGuard/RappelzUS.ini",
       "size": 1174,
       "sha256": "ef0e7c84d50fe1355a001fa99485b22df1f1e14bfc7735ea791eec8df3341fcc"
-    },
-    {
-      "path": "GameGuard.des",
-      "size": 527176,
-      "sha256": "4c9a9ab3c65d644020f91e399c1a38fcb67353810fbc2dee148b1274832655ce"
     },
     {
       "path": "ILU.dll",
@@ -551,6 +561,21 @@
       "path": "SplashLoading.exe",
       "size": 2083912,
       "sha256": "3c743c6dd47211e5ffb655d29ac61dd05bbd377cf8e4d3ac09bae7e39a6dee79"
+    },
+    {
+      "path": "unins000.dat",
+      "size": 8714,
+      "sha256": "a1ce6928b916de9517534fe94393f93b38e2cdc45ed2bab882c24d61aabacbb8"
+    },
+    {
+      "path": "unins000.exe",
+      "size": 971610,
+      "sha256": "f3eeb7825e9808832f2bc0801af47b055962292aa0c265878d986a41db8fdd30"
+    },
+    {
+      "path": "uninstall.exe",
+      "size": 1344512,
+      "sha256": "5ffd4b20dccfb84c8890abdb780184a7651e760aefba4ab0c6fba5b2a81f97d9"
     },
     {
       "path": "Win98sUpdateUtil.exe",
